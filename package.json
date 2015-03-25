@@ -1,5 +1,5 @@
 {
-  "name": "react-materialize",
+  "name": "react-materialize-real",
   "version": "0.12.0",
   "description": "Material design for react",
   "main": "./src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-materialize/react-materialize.git"
+    "url": "https://github.com/prog666/react-materialize.git"
   },
   "keywords": [
     "material",
@@ -18,9 +18,9 @@
   "author": "Isaiah Peng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-materialize/react-materialize/issues"
+    "url": "https://github.com/prog666/react-materialize/issues"
   },
-  "homepage": "https://github.com/react-materialize/react-materialize",
+  "homepage": "https://github.com/prog666/react-materialize",
   "peerDependencies": {
     "react": ">=0.12"
   },
